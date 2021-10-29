@@ -10,7 +10,7 @@
 - Visualize the test results and propose enhancements to the model, what would you do if you had more time. Also describe assumptions you made and your approach.
 
 ## Code:
-Lending Club Interest Rate Prediction.py
+https://github.com/lesleyrae/Lending-Club-Interest-Rate-Prediction/blob/f675fb3cf782b9bdf6ad103b7a453c2cd892c268/Lending%20Club%20Interest%20Rate%20Prediction.py
 
 ## Reports:
 
