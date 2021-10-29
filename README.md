@@ -10,8 +10,7 @@
 - Visualize the test results and propose enhancements to the model, what would you do if you had more time. Also describe assumptions you made and your approach.
 
 - Source
- - This data comes from Lending Club (https://www.lendingclub.com/info/statistics.action), which provides a very large, open set of data on the people who received loans through their platform.
- - 
+- https://www.openintro.org/data/index.php?data=loans_full_schema
 
 
 ## Walk-through of the Project
