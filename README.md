@@ -1,5 +1,12 @@
 # Lending-Club-Interest-Rate-Prediction
 
+## Code:
+https://github.com/lesleyrae/Lending-Club-Interest-Rate-Prediction/blob/f675fb3cf782b9bdf6ad103b7a453c2cd892c268/Lending%20Club%20Interest%20Rate%20Prediction.py
+
+## Reports:
+https://github.com/lesleyrae/Lending-Club-Interest-Rate-Prediction/blob/c1991f67d22bf3af703130a82f9b9180b518a186/Lending%20Club%20Interest%20Rate%20Prediction.pdf
+
+
 ## Description
  - This data set represents thousands of loans made through the Lending Club platform, which is a platform that allows individuals to lend to other individuals. Of course, not all loans are created equal. Someone who is a essentially a sure bet to pay back a loan will have an easier time getting a loan with a low interest rate than someone who appears to be riskier. And for people who are very risky? They may not even get a loan offer, or they may not have accepted the loan offer due to a high interest rate. It is important to keep that last part in mind, since this data set only represents loans actually made, i.e. do not mistake this data for loan applications!
 
@@ -8,12 +15,6 @@
 - Generate a minimum of 5 unique visualizations using the data and write a brief description of your observations. Additionally, all attempts should be made to make the visualizations visually appealing
 - Create a feature set and create a model which predicts interest rate using at least 2 algorithms. Describe any data cleansing that must be performed and analysis when examining the data.
 - Visualize the test results and propose enhancements to the model, what would you do if you had more time. Also describe assumptions you made and your approach.
-
-## Code:
-https://github.com/lesleyrae/Lending-Club-Interest-Rate-Prediction/blob/f675fb3cf782b9bdf6ad103b7a453c2cd892c268/Lending%20Club%20Interest%20Rate%20Prediction.py
-
-## Reports:
-
 
 - Source
 - https://www.openintro.org/data/index.php?data=loans_full_schema
