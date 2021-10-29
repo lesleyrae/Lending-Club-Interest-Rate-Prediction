@@ -9,6 +9,12 @@
 - Create a feature set and create a model which predicts interest rate using at least 2 algorithms. Describe any data cleansing that must be performed and analysis when examining the data.
 - Visualize the test results and propose enhancements to the model, what would you do if you had more time. Also describe assumptions you made and your approach.
 
+## Code:
+Lending Club Interest Rate Prediction.py
+
+## Reports:
+
+
 - Source
 - https://www.openintro.org/data/index.php?data=loans_full_schema
 
