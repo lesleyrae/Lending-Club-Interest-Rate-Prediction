@@ -5,6 +5,8 @@ https://github.com/lesleyrae/Lending-Club-Interest-Rate-Prediction/blob/f675fb3c
 
 ## Reports:
 https://github.com/lesleyrae/Lending-Club-Interest-Rate-Prediction/blob/c1991f67d22bf3af703130a82f9b9180b518a186/Lending%20Club%20Interest%20Rate%20Prediction.pdf
+## Simple summary:
+https://github.com/lesleyrae/Lending-Club-Interest-Rate-Prediction/blob/efef01fd5b7129823ae11f7567b468e2be3fe4e3/simplereport.pdf
 
 
 ## Description
